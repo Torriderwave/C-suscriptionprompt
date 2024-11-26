@@ -1,0 +1,56 @@
+C:\Users\paglo\Desktop\CsharpProjects2\TestProject\bin\Debug\net9.0\TestProject.exe
+C:\Users\paglo\Desktop\CsharpProjects2\TestProject\bin\Debug\net9.0\TestProject.deps.json
+C:\Users\paglo\Desktop\CsharpProjects2\TestProject\bin\Debug\net9.0\TestProject.runtimeconfig.json
+C:\Users\paglo\Desktop\CsharpProjects2\TestProject\bin\Debug\net9.0\TestProject.dll
+C:\Users\paglo\Desktop\CsharpProjects2\TestProject\bin\Debug\net9.0\TestProject.pdb
+C:\Users\paglo\Desktop\CsharpProjects2\TestProject\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paglo\Desktop\CsharpProjects2\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\paglo\Desktop\CsharpProjects2\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
+C:\Users\paglo\Desktop\CsharpProjects2\TestProject\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\paglo\Desktop\CsharpProjects2\TestProject\obj\Debug\net9.0\TestProject.dll
+C:\Users\paglo\Desktop\CsharpProjects2\TestProject\obj\Debug\net9.0\refint\TestProject.dll
+C:\Users\paglo\Desktop\CsharpProjects2\TestProject\obj\Debug\net9.0\TestProject.pdb
+C:\Users\paglo\Desktop\CsharpProjects2\TestProject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
+C:\Users\paglo\Desktop\CsharpProjects2\TestProject\obj\Debug\net9.0\ref\TestProject.dll
+D:\Escritorio 2024\proyectos c#\CsharpProjects3\testproject\bin\Debug\net9.0\TestProject.exe
+D:\Escritorio 2024\proyectos c#\CsharpProjects3\testproject\bin\Debug\net9.0\TestProject.deps.json
+D:\Escritorio 2024\proyectos c#\CsharpProjects3\testproject\bin\Debug\net9.0\TestProject.runtimeconfig.json
+D:\Escritorio 2024\proyectos c#\CsharpProjects3\testproject\bin\Debug\net9.0\TestProject.dll
+D:\Escritorio 2024\proyectos c#\CsharpProjects3\testproject\bin\Debug\net9.0\TestProject.pdb
+D:\Escritorio 2024\proyectos c#\CsharpProjects3\testproject\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio 2024\proyectos c#\CsharpProjects3\testproject\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
+D:\Escritorio 2024\proyectos c#\CsharpProjects3\testproject\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
+D:\Escritorio 2024\proyectos c#\CsharpProjects3\testproject\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+D:\Escritorio 2024\proyectos c#\CsharpProjects3\testproject\obj\Debug\net9.0\TestProject.dll
+D:\Escritorio 2024\proyectos c#\CsharpProjects3\testproject\obj\Debug\net9.0\refint\TestProject.dll
+D:\Escritorio 2024\proyectos c#\CsharpProjects3\testproject\obj\Debug\net9.0\TestProject.pdb
+D:\Escritorio 2024\proyectos c#\CsharpProjects3\testproject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
+D:\Escritorio 2024\proyectos c#\CsharpProjects3\testproject\obj\Debug\net9.0\ref\TestProject.dll
+D:\Escritorio 2024\proyectos c#\CsharpProjects4\TestProject\bin\Debug\net9.0\TestProject.exe
+D:\Escritorio 2024\proyectos c#\CsharpProjects4\TestProject\bin\Debug\net9.0\TestProject.deps.json
+D:\Escritorio 2024\proyectos c#\CsharpProjects4\TestProject\bin\Debug\net9.0\TestProject.runtimeconfig.json
+D:\Escritorio 2024\proyectos c#\CsharpProjects4\TestProject\bin\Debug\net9.0\TestProject.dll
+D:\Escritorio 2024\proyectos c#\CsharpProjects4\TestProject\bin\Debug\net9.0\TestProject.pdb
+D:\Escritorio 2024\proyectos c#\CsharpProjects4\TestProject\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio 2024\proyectos c#\CsharpProjects4\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
+D:\Escritorio 2024\proyectos c#\CsharpProjects4\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
+D:\Escritorio 2024\proyectos c#\CsharpProjects4\TestProject\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+D:\Escritorio 2024\proyectos c#\CsharpProjects4\TestProject\obj\Debug\net9.0\TestProject.dll
+D:\Escritorio 2024\proyectos c#\CsharpProjects4\TestProject\obj\Debug\net9.0\refint\TestProject.dll
+D:\Escritorio 2024\proyectos c#\CsharpProjects4\TestProject\obj\Debug\net9.0\TestProject.pdb
+D:\Escritorio 2024\proyectos c#\CsharpProjects4\TestProject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
+D:\Escritorio 2024\proyectos c#\CsharpProjects4\TestProject\obj\Debug\net9.0\ref\TestProject.dll
+D:\Escritorio 2024\proyectos c#\CsharpProjects5-proyecto\testproject\bin\Debug\net9.0\TestProject.exe
+D:\Escritorio 2024\proyectos c#\CsharpProjects5-proyecto\testproject\bin\Debug\net9.0\TestProject.deps.json
+D:\Escritorio 2024\proyectos c#\CsharpProjects5-proyecto\testproject\bin\Debug\net9.0\TestProject.runtimeconfig.json
+D:\Escritorio 2024\proyectos c#\CsharpProjects5-proyecto\testproject\bin\Debug\net9.0\TestProject.dll
+D:\Escritorio 2024\proyectos c#\CsharpProjects5-proyecto\testproject\bin\Debug\net9.0\TestProject.pdb
+D:\Escritorio 2024\proyectos c#\CsharpProjects5-proyecto\testproject\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio 2024\proyectos c#\CsharpProjects5-proyecto\testproject\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
+D:\Escritorio 2024\proyectos c#\CsharpProjects5-proyecto\testproject\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
+D:\Escritorio 2024\proyectos c#\CsharpProjects5-proyecto\testproject\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+D:\Escritorio 2024\proyectos c#\CsharpProjects5-proyecto\testproject\obj\Debug\net9.0\TestProject.dll
+D:\Escritorio 2024\proyectos c#\CsharpProjects5-proyecto\testproject\obj\Debug\net9.0\refint\TestProject.dll
+D:\Escritorio 2024\proyectos c#\CsharpProjects5-proyecto\testproject\obj\Debug\net9.0\TestProject.pdb
+D:\Escritorio 2024\proyectos c#\CsharpProjects5-proyecto\testproject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
+D:\Escritorio 2024\proyectos c#\CsharpProjects5-proyecto\testproject\obj\Debug\net9.0\ref\TestProject.dll
